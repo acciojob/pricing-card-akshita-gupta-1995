@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+div{
+	display:flex;
+	flex-direction:column;
+	background-color:#F1F1F1;
+	width:20;
+	align-items:center;
+	justify-content:center;
+	margin:auto;
+	box-shadow: 0px 4px 0px #D9D9D9;
+	border-radius: 3px;
+	padding:50px 50px;
+}
+button{
+	width:auto;
+	background-color:orange;
+	border:none;
+	border-radius:5px;
+	color:white;
+	padding:10px 10px;
+	margin:10px
+
+}
+img{
+	width:100%;
+	margin:auto;
+}
+h1{
+	text-align:center;
+	margin:auto;
+}
+h3{
+	text-align:center;
+	margin:auto;
+}
+p{
+	text-align:center;
+	margin:auto;
+}
